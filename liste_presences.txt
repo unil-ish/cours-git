@@ -1,4 +1,5 @@
 davide picca
+<<<<<<< HEAD
 Thomas Rywalski
 Elijah Green
 Antonin
@@ -9,3 +10,8 @@ Leonie Nussbaum
 sinem
 Pedro Tomé
 Laure
+
+Sébastien Franzone
+=======
+André Santiago
+>>>>>>> 3ee0c14c025aa104583fdacd4bbf7b5c32dd8c6b
